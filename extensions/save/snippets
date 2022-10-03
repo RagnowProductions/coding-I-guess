@@ -1,0 +1,4 @@
+.load from (timestamp)
+     player = (player file name - remember to use "")
+     transform.player pos(x, y, z, rotation x, rotation y, rotation z)
+.finish
